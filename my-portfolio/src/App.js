@@ -11,7 +11,7 @@ function App() {
       
       <section id="about">
         <h2>About Me</h2>
-        <p>BSc. Computer Science, Ashesi University (Graduating August 2024).</p>
+        <p>BSc. Computer Science, Ashesi University (Graduated August 2024).</p>
         <p>Awarded The MasterCard Foundation Scholar Program (2020 – 2024).</p>
       </section>
       
@@ -59,6 +59,7 @@ function App() {
         <p>Email: <a href="mailto:ernesttorto1@gmail.com">ernesttorto1@gmail.com</a></p>
         <p>Phone: +233 54 695 9144</p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/ernest-torto" target="_blank">LinkedIn Profile</a></p>
+        <p>GitHub: <a href="https://github.com/ettorto" target="_blank">github.com/ettorto</a></p>
       </section>
       
       <footer>
